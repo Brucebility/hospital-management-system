@@ -1,5 +1,10 @@
 # 医院病人管理系统（C 语言 · 课程设计）
 
+![C](https://img.shields.io/badge/C-99-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![GCC](https://img.shields.io/badge/MinGW-GCC%2013.2-4B0082?style=flat-square&logo=gnu&logoColor=white)
+![Linked List](https://img.shields.io/badge/Data%20Structure-Linked%20List-informational?style=flat-square)
+
+
 > 三端（管理员 / 医生 / 用户）控制台医院信息管理系统：病人、医生、药品三类数据用链表管理，支持增删改查、医嘱与不良反应记录、文件持久化与登录鉴权。
 > 本项目为《程序设计基础》课程设计作品（约 2100 行 C）。
 
