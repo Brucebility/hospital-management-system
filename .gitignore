@@ -1,0 +1,15 @@
+# 编译产物
+build/
+*.exe
+*.o
+
+# 运行产生的数据文件（含病人隐私信息，不提交）
+data/*.txt
+
+# IDE
+.vscode/
+.idea/
+
+# 系统
+.DS_Store
+Thumbs.db
